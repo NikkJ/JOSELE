@@ -5,25 +5,36 @@ using UnityEngine;
 public class spawnNovo : MonoBehaviour {
 
     public GameObject blocoPrefab;
-    public float rateSpawn;
+    public float rateSpawn=1;
     public float currentTime;
     public float y;
+    public float velocidade;
     private GameObject tempPrefab;
     private int nivel;
+    private double a;
+    public double b;
+    corJogo cor = new corJogo();
 
+    public spawnNovo(corJogo cor)
+    {
+        this.cor = cor;
+    }
 
-	// Use this for initialization
-	void Start () {
+    // Use this for initialization
+    void Start () {
         currentTime = 0;
         nivel = PlayerPrefs.GetInt("Nivel");
-
+        velocidade =PlayerPrefs.GetFloat("speed");
+        a =  (1f/nivel * ((0.8f/velocidade))/rateSpawn); //dando erro de calculo ******REVER A FORMULA************
+        b = a;
+        Debug.Log("Velocidade spawn: "+velocidade);
     }
 	
 	// Update is called once per frame
 	void Update () {
         currentTime += Time.deltaTime;
         //Diminui a velocidade de Spawn de acordo com o nivel que se encontra
-        if(currentTime >= rateSpawn/(Mathf.Pow(nivel,0.16f)))
+        if(currentTime >= b)
         {
             currentTime = 0;
             y = Random.Range(-4.1f, -0.5f);

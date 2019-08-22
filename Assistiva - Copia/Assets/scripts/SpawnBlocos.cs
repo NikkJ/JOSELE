@@ -5,7 +5,7 @@ using UnityEngine;
 public class SpawnBlocos : MonoBehaviour {
     public float maxHeight;
     public float minHeight;
-    public float rateSpawn;
+    private float rateSpawn;
     private float currentRateSpawn;
     public GameObject Quad;
     public int maxBlocos;
@@ -13,6 +13,7 @@ public class SpawnBlocos : MonoBehaviour {
 
     private void Start()
     {
+        rateSpawn = 1.5f * (1 + PlayerPrefs.GetFloat("speed") * 50);
         for (int i = 0;i< maxBlocos; i++)
         {
             GameObject tempBloco = Instantiate(Quad) as GameObject;
@@ -24,6 +25,7 @@ public class SpawnBlocos : MonoBehaviour {
     private void Update()
     {
         currentRateSpawn += Time.deltaTime;
+        Debug.Log(Time.deltaTime);
         if(currentRateSpawn > rateSpawn)
         {
             currentRateSpawn = 0;

@@ -16,13 +16,15 @@ public class CarregarCena3 : MonoBehaviour
 
 
     // Use this for initialization
-    public void Menu()
+    public void Menu2()
     {
         speed = 0.5f;
+        Debug.Log("chegou");
+        index = 1;
         if (index == 1)
         {
-            speed = 0.05f;
-            SceneManager.LoadScene(1);
+            PlayerPrefs.SetFloat("speed", 0.05f);
+            //Debug.Log(PlayerPrefs.GetFloat("speed"));
         }
         /*else
         {

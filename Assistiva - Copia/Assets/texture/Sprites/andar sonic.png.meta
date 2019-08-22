@@ -1,0 +1,520 @@
+fileFormatVersion: 2
+guid: c5114c2f4b80e164486267161c1c875c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4387725628001672207
+    second: andar sonic_0
+  - first:
+      213: 5627225123698429006
+    second: andar sonic_1
+  - first:
+      213: 5358038081387020730
+    second: andar sonic_2
+  - first:
+      213: -7541762343765233948
+    second: andar sonic_3
+  - first:
+      213: 4011254557432631152
+    second: andar sonic_4
+  - first:
+      213: -2283921316133781498
+    second: andar sonic_5
+  - first:
+      213: -2604285057181933224
+    second: andar sonic_6
+  - first:
+      213: -2117468278929383171
+    second: andar sonic_7
+  - first:
+      213: 5653986025016184988
+    second: andar sonic_8
+  - first:
+      213: -275557844658689079
+    second: andar sonic_9
+  - first:
+      213: -6538478490956886324
+    second: andar sonic_10
+  - first:
+      213: 7183026476717717041
+    second: andar sonic_11
+  - first:
+      213: -4184824903178637933
+    second: andar sonic_12
+  - first:
+      213: -2667881850542392530
+    second: andar sonic_13
+  - first:
+      213: 5980481225036998404
+    second: andar sonic_14
+  - first:
+      213: 3070901081179504926
+    second: andar sonic_15
+  - first:
+      213: 4076231313834574458
+    second: andar sonic_16
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 150
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: andar sonic_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 380
+        width: 443
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5e395796e6faa448d6997dbf849576
+      internalID: -4387725628001672207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_1
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 360
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83adea20c6671d40b4b3860fa015466
+      internalID: 5627225123698429006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_2
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 324
+        width: 245
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0064475bd18267d488db969a8646d7dc
+      internalID: 5358038081387020730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_3
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 324
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0859f7f682bd3408267dc906bfd94a
+      internalID: -7541762343765233948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_4
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 324
+        width: 160
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14649d0fcbd0dd946b3cb2eafffaeeef
+      internalID: 4011254557432631152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_5
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 324
+        width: 176
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf26a61b2209954439e8b7f2aa800909
+      internalID: -2283921316133781498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_6
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 324
+        width: 237
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb96253d06a94045bd75f033cee2a15
+      internalID: -2604285057181933224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_7
+      rect:
+        serializedVersion: 2
+        x: 1877
+        y: 324
+        width: 237
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b196f0c9da95a147b3e31de0dda03e9
+      internalID: -2117468278929383171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_8
+      rect:
+        serializedVersion: 2
+        x: 2165
+        y: 324
+        width: 158
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35067fde1ec23b3439fc8ad39c222a85
+      internalID: 5653986025016184988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_9
+      rect:
+        serializedVersion: 2
+        x: 2405
+        y: 324
+        width: 171
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 974e0d70e67f3bd49892d2c784b206a2
+      internalID: -275557844658689079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 443
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02d14dddaf7edea428414b297ccd20c8
+      internalID: -6538478490956886324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_11
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 29
+        width: 226
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fa5d5be3f2dedb42ace736ee0dbe8dd
+      internalID: 7183026476717717041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_12
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 29
+        width: 194
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2079381895143214b843f5874d50d7d7
+      internalID: -4184824903178637933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_13
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 29
+        width: 148
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1628b4c857f2106409238e885b810f8a
+      internalID: -2667881850542392530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_14
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 22
+        width: 218
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d77c51548590d449b0381dd4d761e18
+      internalID: 5980481225036998404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_15
+      rect:
+        serializedVersion: 2
+        x: 1895
+        y: 22
+        width: 176
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0dd6c0bd8f235146893f642cba43fe0
+      internalID: 3070901081179504926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: andar sonic_16
+      rect:
+        serializedVersion: 2
+        x: 2411
+        y: 22
+        width: 165
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bcaade03869d8e42a3b44002f14d7a8
+      internalID: 4076231313834574458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5930baa7a034ae949ad3aceb397b4741
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
