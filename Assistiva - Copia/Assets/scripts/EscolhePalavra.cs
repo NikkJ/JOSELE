@@ -99,7 +99,7 @@ public class EscolhePalavra : MonoBehaviour {
         PalavraChar.Clear();
         PalavraChar.AddRange(palavraAtual);
         PalavraCharFrente.Clear();
-        speed = PlayerPrefs.GetFloat("speed") + 0.2f;
+        speed = PlayerPrefs.GetFloat("speed") + 0.2f;//PlayerPrefs.GetFloat("inc");
         foreach (char i in palavraAtual)
         {
             PalavraCharFrente.AddRange(" ");

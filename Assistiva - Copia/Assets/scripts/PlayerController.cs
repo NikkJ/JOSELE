@@ -24,20 +24,25 @@ public class PlayerController : MonoBehaviour
     Vector3 posicaoMouse;
     float rotationInicialX, rotationInicialY;
     AudioSource audio;
+    int off = 1;
     public Text erros;
     private int erroNum=0;
+    private int erroMax;
+
 
 
     private void Start()
     {
         //Setar o estilo do jogador
-
+        erroMax = PlayerPrefs.GetInt("erro");
+        Debug.Log("ErroMax: " + erroMax);
         estilo = PlayerPrefs.GetInt("estiloPersonagem");
         gameObject.GetComponentInChildren<Animator>().Play((""+(estilo+1)));
         kamera = FindObjectOfType<Camera>();
         posicaoMouse = player.transform.position;
         audio = GetComponent<AudioSource>();
         erros = GameObject.Find("Erros").GetComponent<Text>();
+        erros.GetComponent<Text>().text = "Erros: " + erroNum;
     }
 
     void SetMovimentacao(int idMovimento)
@@ -50,6 +55,10 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene(0);
 
+        }
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            off = 0;
         }
 
         ///MOVIMENTAÇÃO PELO TECLADO
@@ -128,7 +137,6 @@ public class PlayerController : MonoBehaviour
     void OnCollisionEnter2D(Collision2D collision)
     {
         List<char> aux = (palavra.GetComponent<EscolhePalavra>().PalavraChar);
-        //Debug.Log(aux);
         string auxP = String.Copy(palavra.GetComponent<EscolhePalavra>().palavraAtual);
         char aux2 = collision.gameObject.GetComponent<move2>().l;
         if (collision.gameObject.tag == "Quad")
@@ -138,7 +146,10 @@ public class PlayerController : MonoBehaviour
             {
                 
                 palavra.GetComponent<EscolhePalavra>().Acertou(aux.IndexOf(aux2),auxP.IndexOf(aux2));
-                audio.Play();
+                if (off == 1)
+                {
+                    audio.Play();
+                }
                 Destroy(collision.gameObject);
 
             }
@@ -146,7 +157,7 @@ public class PlayerController : MonoBehaviour
             else
             {
                 erroNum++;
-                if (erroNum == 10)
+                if (erroNum == erroMax)
                 {
                     SceneManager.LoadScene(2);
                 }
@@ -160,6 +171,10 @@ public class PlayerController : MonoBehaviour
         }
         if (collision.gameObject.tag == "Coringa")
         {
+            if (off == 1)
+            {
+                audio.Play();
+            }
             palavra.GetComponent<EscolhePalavra>().Acertou(-1, -1);
             Destroy(collision.gameObject);
         }

@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
+using UnityEngine.UI;
 
 public class CarregarCenaDIF : MonoBehaviour
 {
@@ -9,6 +10,7 @@ public class CarregarCenaDIF : MonoBehaviour
     public GameObject opcoes;
     public GameObject customizar;
     public GameObject white;
+    public InputField input;
 
     private void Start()
     {
@@ -86,5 +88,11 @@ public class CarregarCenaDIF : MonoBehaviour
     {
         atual.SetActive(false);
         nova.SetActive(true);
+    }
+
+    public void Erros()
+    {
+        int erros = int.Parse(input.text);
+        PlayerPrefs.SetInt("erro", erros);
     }
 }
