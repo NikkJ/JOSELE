@@ -1,0 +1,2608 @@
+fileFormatVersion: 2
+guid: b3400cae3e0f7d643afdc69d52daad95
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5102924366874526545
+    second: kirby correndo_0
+  - first:
+      213: -3506093704094425160
+    second: kirby correndo_1
+  - first:
+      213: 6920772091286858848
+    second: kirby correndo_2
+  - first:
+      213: -4334384089168933372
+    second: kirby correndo_3
+  - first:
+      213: 5935284221049981647
+    second: kirby correndo_4
+  - first:
+      213: -3628835989676068180
+    second: kirby correndo_5
+  - first:
+      213: 8298652293743871025
+    second: kirby correndo_6
+  - first:
+      213: -6176107739751078551
+    second: kirby correndo_7
+  - first:
+      213: 1767443145085949995
+    second: kirby correndo_8
+  - first:
+      213: 2025900800366213656
+    second: kirby correndo_9
+  - first:
+      213: -2240316730042067603
+    second: kirby correndo_10
+  - first:
+      213: -2336181408404816128
+    second: kirby correndo_11
+  - first:
+      213: 5920809861153274149
+    second: kirby correndo_12
+  - first:
+      213: -2516431873043262666
+    second: kirby correndo_13
+  - first:
+      213: 2253619792249805686
+    second: kirby correndo_14
+  - first:
+      213: 3643240485849391006
+    second: kirby correndo_15
+  - first:
+      213: -5793231512505545809
+    second: kirby correndo_16
+  - first:
+      213: -8100816307504848153
+    second: kirby correndo_17
+  - first:
+      213: 6404409381426018960
+    second: kirby correndo_18
+  - first:
+      213: 6613027219526523289
+    second: kirby correndo_19
+  - first:
+      213: 486355645774086861
+    second: kirby correndo_20
+  - first:
+      213: -943036338133414996
+    second: kirby correndo_21
+  - first:
+      213: 8390522680877174082
+    second: kirby correndo_22
+  - first:
+      213: 2219609723335341200
+    second: kirby correndo_23
+  - first:
+      213: 24763543090109612
+    second: kirby correndo_24
+  - first:
+      213: -3981170256531766273
+    second: kirby correndo_25
+  - first:
+      213: -1750069439222647114
+    second: kirby correndo_26
+  - first:
+      213: -3280195678171689857
+    second: kirby correndo_27
+  - first:
+      213: 6742912595963911860
+    second: kirby correndo_28
+  - first:
+      213: -4279210777884291683
+    second: kirby correndo_29
+  - first:
+      213: 7644862094072324982
+    second: kirby correndo_30
+  - first:
+      213: -134081720326574763
+    second: kirby correndo_31
+  - first:
+      213: -1974399555348971550
+    second: kirby correndo_32
+  - first:
+      213: -928374643476596112
+    second: kirby correndo_33
+  - first:
+      213: -8473378234077175513
+    second: kirby correndo_34
+  - first:
+      213: -6275798939688093815
+    second: kirby correndo_35
+  - first:
+      213: -1653740069597104495
+    second: kirby correndo_36
+  - first:
+      213: -5991678615909567465
+    second: kirby correndo_37
+  - first:
+      213: 927517978113991437
+    second: kirby correndo_38
+  - first:
+      213: 4318673525274484909
+    second: kirby correndo_39
+  - first:
+      213: -4039807144726954993
+    second: kirby correndo_40
+  - first:
+      213: 6098267218133554852
+    second: kirby correndo_41
+  - first:
+      213: -8266033441063305572
+    second: kirby correndo_42
+  - first:
+      213: 2527479363372253667
+    second: kirby correndo_43
+  - first:
+      213: -5217245489925512076
+    second: kirby correndo_44
+  - first:
+      213: -5533091521209032663
+    second: kirby correndo_45
+  - first:
+      213: 2906286866846680858
+    second: kirby correndo_46
+  - first:
+      213: 5741269230781862470
+    second: kirby correndo_47
+  - first:
+      213: -4658108295609593436
+    second: kirby correndo_48
+  - first:
+      213: 7384749334241501803
+    second: kirby correndo_49
+  - first:
+      213: -1720081688847446418
+    second: kirby correndo_50
+  - first:
+      213: -7536509543075156987
+    second: kirby correndo_51
+  - first:
+      213: -5768287888168604917
+    second: kirby correndo_52
+  - first:
+      213: -310722886590650149
+    second: kirby correndo_53
+  - first:
+      213: 6408083456290530521
+    second: kirby correndo_54
+  - first:
+      213: 8700055315117185311
+    second: kirby correndo_55
+  - first:
+      213: -5739185283032409197
+    second: kirby correndo_56
+  - first:
+      213: -8807305832780093171
+    second: kirby correndo_57
+  - first:
+      213: 6919528291369470470
+    second: kirby correndo_58
+  - first:
+      213: -7529652753582645
+    second: kirby correndo_59
+  - first:
+      213: -7383739043906116578
+    second: kirby correndo_60
+  - first:
+      213: 103346094783738104
+    second: kirby correndo_61
+  - first:
+      213: 5431255353372594538
+    second: kirby correndo_62
+  - first:
+      213: -4083579853047685303
+    second: kirby correndo_63
+  - first:
+      213: 2102121807712057512
+    second: kirby correndo_64
+  - first:
+      213: -7575097534818205299
+    second: kirby correndo_65
+  - first:
+      213: 2147569783574856921
+    second: kirby correndo_66
+  - first:
+      213: -4179554102472176730
+    second: kirby correndo_67
+  - first:
+      213: -9039636683264213649
+    second: kirby correndo_68
+  - first:
+      213: -591057747427566907
+    second: kirby correndo_69
+  - first:
+      213: 7635611283664532242
+    second: kirby correndo_70
+  - first:
+      213: 4525960275573546201
+    second: kirby correndo_71
+  - first:
+      213: -36483023144156053
+    second: kirby correndo_72
+  - first:
+      213: 6636760277035748437
+    second: kirby correndo_73
+  - first:
+      213: -528874181246578096
+    second: kirby correndo_74
+  - first:
+      213: 2516578875494005613
+    second: kirby correndo_75
+  - first:
+      213: -4995057508009792396
+    second: kirby correndo_76
+  - first:
+      213: 6099458136275156401
+    second: kirby correndo_77
+  - first:
+      213: 7588348871931619502
+    second: kirby correndo_78
+  - first:
+      213: -5319461421858424866
+    second: kirby correndo_79
+  - first:
+      213: 2738286886105505099
+    second: kirby correndo_80
+  - first:
+      213: 7084523687483276623
+    second: kirby correndo_81
+  - first:
+      213: 1686658037007789957
+    second: kirby correndo_82
+  - first:
+      213: -1080671037259654893
+    second: kirby correndo_83
+  - first:
+      213: -6670910085453878536
+    second: kirby correndo_84
+  - first:
+      213: -6841804625014300020
+    second: kirby correndo_85
+  - first:
+      213: -657063139521446764
+    second: kirby correndo_86
+  - first:
+      213: -840286990264199226
+    second: kirby correndo_87
+  - first:
+      213: -7061100220700593442
+    second: kirby correndo_88
+  - first:
+      213: -6349441967424011870
+    second: kirby correndo_89
+  - first:
+      213: -4671621635526039362
+    second: kirby correndo_90
+  - first:
+      213: -4032823685170480217
+    second: kirby correndo_91
+  - first:
+      213: 6140838991875480816
+    second: kirby correndo_92
+  - first:
+      213: -8083392690798180068
+    second: kirby correndo_93
+  - first:
+      213: -3024260804826398975
+    second: kirby correndo_94
+  - first:
+      213: -8707102467267942873
+    second: kirby correndo_95
+  - first:
+      213: 7661131000782035211
+    second: kirby correndo_96
+  - first:
+      213: 904599429031308968
+    second: kirby correndo_97
+  - first:
+      213: 6825008309580882213
+    second: kirby correndo_98
+  - first:
+      213: -287778272528683824
+    second: kirby correndo_99
+  - first:
+      213: -3153822774536250866
+    second: kirby correndo_100
+  - first:
+      213: -563178269128266150
+    second: kirby correndo_101
+  - first:
+      213: 5244084776884604100
+    second: kirby correndo_102
+  - first:
+      213: 1938837484167653879
+    second: kirby correndo_103
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kirby correndo_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 358
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7761af105112f774292408fcaab34b16
+      internalID: -5102924366874526545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 358
+        width: 24
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c64ea2d8565e04ab30c0c1d60feaea
+      internalID: -3506093704094425160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_2
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 358
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18d4d798702d3834293e2570818c6370
+      internalID: 6920772091286858848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_3
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 358
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08ebf78380af0da41bc423cba3560f71
+      internalID: -4334384089168933372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_4
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 358
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7376d45ad1f7d7742ae035a2559179fa
+      internalID: 5935284221049981647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_5
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 358
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 439169039bdb9d442a31c07cdab9a14d
+      internalID: -3628835989676068180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_6
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7201920b0409984487c8b524f23fbd3
+      internalID: 8298652293743871025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_7
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 358
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706b0a4d17cf3e643878015261a4aa7e
+      internalID: -6176107739751078551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_8
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 358
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fae21329a01f744086bfd273fcef5e0
+      internalID: 1767443145085949995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 358
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4185dc48da04842a8bf71c5f80e32c
+      internalID: 2025900800366213656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_10
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 358
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5a320d5d29adf4b8d94e749e49ba96
+      internalID: -2240316730042067603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_11
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 310
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e67c5fac80bbe3746965324c161f02bd
+      internalID: -2336181408404816128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 310
+        width: 23
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3aa3e88333b134ba004635ddf8b2eb
+      internalID: 5920809861153274149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_13
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 310
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f73837a87a4925498bfaa48691ec79a
+      internalID: -2516431873043262666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_14
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 310
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09d3f65dd29b4a24db0a031eb461902a
+      internalID: 2253619792249805686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_15
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 310
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17c8407b2430e6c41bc9854999b3f526
+      internalID: 3643240485849391006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_16
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 310
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 189a3abf9773cab4481ddcba54f6fb90
+      internalID: -5793231512505545809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 310
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6edf55325973c439c385c367de3bec
+      internalID: -8100816307504848153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_18
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 310
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8183eb02fb5534ca06bb6523eb12fa
+      internalID: 6404409381426018960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_19
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 310
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9105dbe08e3ccb740b1ded575a24f8da
+      internalID: 6613027219526523289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_20
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 310
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b237a3e725e0c84f91f8589b76190b2
+      internalID: 486355645774086861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_21
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 310
+        width: 31
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30ffda6b0fc3744a3f6f5730a36e0c
+      internalID: -943036338133414996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_22
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 310
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351ab628628f2e43821e9b5fb0b1cf5
+      internalID: 8390522680877174082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 310
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e83530891ed74fb24814c3b2d2177
+      internalID: 2219609723335341200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 262
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14efa65d14fcc934bbf6983c6295b07b
+      internalID: 24763543090109612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_25
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 262
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5c687e3bfb7a145967cf09c5709c45
+      internalID: -3981170256531766273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_26
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 262
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21a3a27ce683ded4fa40dc0a4f91aabd
+      internalID: -1750069439222647114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_27
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 262
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b3ffa3cb58707343b4b2c4277b88fb0
+      internalID: -3280195678171689857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_28
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 262
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac63b2e3a5fe39640a4e3552fe886d24
+      internalID: 6742912595963911860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_29
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 262
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c46ea707cc64c446bd368da2787a6ea
+      internalID: -4279210777884291683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_30
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 262
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2af6ca1f00d08c4f8f4642302ca9524
+      internalID: 7644862094072324982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_31
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 262
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16349c4adca83b448a3c2a32bb352082
+      internalID: -134081720326574763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_32
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 262
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe15626d0419c74ba44c366aceae47d
+      internalID: -1974399555348971550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_33
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 262
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7372b2c8d7a8d424b8d6d3321555e13c
+      internalID: -928374643476596112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_34
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 262
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7af5fb1f31fed34ab9c3ba5dcafe281
+      internalID: -8473378234077175513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_35
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 262
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d9c14a2f50cc4428fe0e915fcda47c
+      internalID: -6275798939688093815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_36
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 230
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4358e781b2cb0c24aa6b4b7df48452ca
+      internalID: -1653740069597104495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 230
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb881d4124833642a81533919d8ae4f
+      internalID: -5991678615909567465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_38
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 230
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d37c55542fc1b488e5280076a5914f
+      internalID: 927517978113991437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_39
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 230
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c32d537191f59b74a9f7d5144b4a9669
+      internalID: 4318673525274484909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_40
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 230
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f9b8e83494ded418a76eea15006ddc
+      internalID: -4039807144726954993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 230
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 221d2507945217c4587c5af84d2fb3a5
+      internalID: 6098267218133554852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407b81805bc54424480f4dd4dcfde4c0
+      internalID: -8266033441063305572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 230
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f18f1c0b24f464b81d8817171ff56c
+      internalID: 2527479363372253667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b02c5d94c9c8c30468303e1b91485e48
+      internalID: -5217245489925512076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060812c103ff64745985e04963051853
+      internalID: -5533091521209032663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04ea628370046d48a450743f33fcd9f
+      internalID: 2906286866846680858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d9813109218bd54593452b65661d810
+      internalID: 5741269230781862470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 230
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8557f82e563e7d42baed252c584f1e9
+      internalID: -4658108295609593436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_49
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 230
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0dde40d97bad04b843094cc421bbc9
+      internalID: 7384749334241501803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_50
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 230
+        width: 24
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2045cd64373f2643a8614cf25e0f5a2
+      internalID: -1720081688847446418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_51
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 230
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931db0913d2cd6458a89678d78243ee
+      internalID: -7536509543075156987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_52
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 182
+        width: 37
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc9b857b0f758e4dbd84b19736b21e7
+      internalID: -5768287888168604917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_53
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 182
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01a5db21667d4f429ccc781af6e3fe8
+      internalID: -310722886590650149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_54
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a0e4d456ca68c843ac541dfcf21e5f2
+      internalID: 6408083456290530521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 182
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54d2f202eb9784b47afb0b7598291106
+      internalID: 8700055315117185311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 182
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e27d9b5c6e0cba340a642cf60897251a
+      internalID: -5739185283032409197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_57
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 182
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78e88bf77059e9641bb82579189e3a85
+      internalID: -8807305832780093171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_58
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 182
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1bf5cdb3826014e8363c5c2354b442
+      internalID: 6919528291369470470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_59
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 182
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a5fa6cc288b144ea8e76f8bbf5aa98
+      internalID: -7529652753582645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_60
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 182
+        width: 24
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7f9c31fcce90714ca3fd9625d890c03
+      internalID: -7383739043906116578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 182
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd2ee85d771bb04089f4d95e55610a2
+      internalID: 103346094783738104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_62
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 134
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e00b637fc27c24f85ffebe56b0b93d
+      internalID: 5431255353372594538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_63
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 128
+        width: 38
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9180bde1469d62346846f4125c71f8c3
+      internalID: -4083579853047685303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_64
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 134
+        width: 21
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7fc6e5ec879ab45a2743dc7299e8da
+      internalID: 2102121807712057512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_65
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 131
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa1a998ad032ae1418566c66fb766dda
+      internalID: -7575097534818205299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_66
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 133
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9ee4742cb855b45b84e1959a5e5fc6
+      internalID: 2147569783574856921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_67
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 134
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfcafb6f4abcee40a8576f065c9d9b8
+      internalID: -4179554102472176730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_68
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 134
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 543169952e06c2a458163059b4a79d9f
+      internalID: -9039636683264213649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 134
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8cc69baaee47e42a0090c65227e6d6
+      internalID: -591057747427566907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_70
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 134
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0680840618c13494f8718591e8ecb5b8
+      internalID: 7635611283664532242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_71
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 134
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a225e1b79323c84da4c5df0c68f7ef8
+      internalID: 4525960275573546201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_72
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 134
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dfd42c5e6fe58e4482dff7b8da843f5
+      internalID: -36483023144156053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_73
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 134
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef897e8fdde0b8345b162ee9b9c2e250
+      internalID: 6636760277035748437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_74
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 134
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6c015d8aed853489385b137feb5efa
+      internalID: -528874181246578096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_75
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 133
+        width: 30
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2d74be2b7e82194998b827dcbf45f60
+      internalID: 2516578875494005613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_76
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 102
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8153a014390dc624da44cafeb123bffc
+      internalID: -4995057508009792396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_77
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 102
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3849e212218b1304da83fa6d48a70782
+      internalID: 6099458136275156401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 54
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f6af329988de5e4eaa5cc3277c6a7e9
+      internalID: 7588348871931619502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_79
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 54
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0087eb405780d9c44a94dab0e175b5ce
+      internalID: -5319461421858424866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_80
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9bab3d008bd94489f01a4ba0ea68d3
+      internalID: 2738286886105505099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_81
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 54
+        width: 25
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81c1b2037fbf5b948af5cf83c74da164
+      internalID: 7084523687483276623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_82
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 54
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3b801038e88b74b937148a10f2e1d6
+      internalID: 1686658037007789957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_83
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 54
+        width: 23
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a410292d48a47846a741e25b65c3306
+      internalID: -1080671037259654893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_84
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 54
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dece243c73a78e74587c76bb325adf06
+      internalID: -6670910085453878536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_85
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 54
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea96f8c347ec3846a2768d2ece16d5b
+      internalID: -6841804625014300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_86
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 54
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfa40ab418def854b9c167024ccdbf2d
+      internalID: -657063139521446764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_87
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 54
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768bf6ea121eb8d42acdf70bd589fcd0
+      internalID: -840286990264199226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_88
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 54
+        width: 23
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99afa49a48123784a866822bfaf61155
+      internalID: -7061100220700593442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 54
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf413cef8622bf24683dbe57ccf8e04e
+      internalID: -6349441967424011870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_90
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 54
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63543076e2ee5f48ad0bc41db89f294
+      internalID: -4671621635526039362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_91
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 54
+        width: 22
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10824d1b73e8d2344be6f2cdc9b6635a
+      internalID: -4032823685170480217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_92
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 54
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50207d7a51e55eb41b45a7443af4ddfd
+      internalID: 6140838991875480816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_93
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 54
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5733fc3b1a40414f81e49bfe71ca734
+      internalID: -8083392690798180068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_94
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 6
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2853efc2812b2e2448ed8405c50382ee
+      internalID: -3024260804826398975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_95
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 6
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af13a4798fadd1346a7dfaf9f11f961d
+      internalID: -8707102467267942873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_96
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 6
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a46dbf81e9b98d46b6d797a9611ecf6
+      internalID: 7661131000782035211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_97
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 6
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53c4520a3555e642bdb9a01af62bcc8
+      internalID: 904599429031308968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_98
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 6
+        width: 30
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7a676fc4fa0fc48bedf1f13eefee2e
+      internalID: 6825008309580882213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_99
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 6
+        width: 22
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4c67098ad7e5428b9964577e55de9
+      internalID: -287778272528683824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_100
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 6
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eec8dde087764314797c6480ca53d9cb
+      internalID: -3153822774536250866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_101
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 6
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ae0ac1dd51644409e028fd0b157104
+      internalID: -563178269128266150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_102
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 6
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa118e4efd919d4288b17bf7bc4b0d6
+      internalID: 5244084776884604100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kirby correndo_103
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 6
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b6d5ddd99474a14d8875dc1228699a0
+      internalID: 1938837484167653879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 06cf6712438591245a5fcb5746168f71
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

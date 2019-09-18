@@ -1,0 +1,4480 @@
+fileFormatVersion: 2
+guid: 1444a0dce4e6abd4182217b1a745ac34
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7195192127158347225
+    second: mario correndo TUDO_0
+  - first:
+      213: -4569197172719124132
+    second: mario correndo TUDO_1
+  - first:
+      213: -4501392698570890192
+    second: mario correndo TUDO_2
+  - first:
+      213: 5406633084010281561
+    second: mario correndo TUDO_3
+  - first:
+      213: 9070168144239637852
+    second: mario correndo TUDO_4
+  - first:
+      213: 4998861485394665011
+    second: mario correndo TUDO_5
+  - first:
+      213: 5481930461948106070
+    second: mario correndo TUDO_6
+  - first:
+      213: -7809720221039002546
+    second: mario correndo TUDO_7
+  - first:
+      213: -7783173028421849063
+    second: mario correndo TUDO_8
+  - first:
+      213: 2542795368743401769
+    second: mario correndo TUDO_9
+  - first:
+      213: -8218553623522943590
+    second: mario correndo TUDO_10
+  - first:
+      213: 5740169118749114382
+    second: mario correndo TUDO_11
+  - first:
+      213: 1956960056219305274
+    second: mario correndo TUDO_12
+  - first:
+      213: 4082914233243056901
+    second: mario correndo TUDO_13
+  - first:
+      213: 7734693195172999159
+    second: mario correndo TUDO_14
+  - first:
+      213: 645790006528534096
+    second: mario correndo TUDO_15
+  - first:
+      213: -5647686088550060780
+    second: mario correndo TUDO_16
+  - first:
+      213: 7316741875050351849
+    second: mario correndo TUDO_17
+  - first:
+      213: 6869090494843765732
+    second: mario correndo TUDO_18
+  - first:
+      213: 1319411507969533446
+    second: mario correndo TUDO_19
+  - first:
+      213: -1279516649130774253
+    second: mario correndo TUDO_20
+  - first:
+      213: -359385348672283271
+    second: mario correndo TUDO_21
+  - first:
+      213: -4825552843998058020
+    second: mario correndo TUDO_22
+  - first:
+      213: 4922760497755360056
+    second: mario correndo TUDO_23
+  - first:
+      213: -2677454049228889881
+    second: mario correndo TUDO_24
+  - first:
+      213: 7939920927584923383
+    second: mario correndo TUDO_25
+  - first:
+      213: -8624884973396683555
+    second: mario correndo TUDO_26
+  - first:
+      213: 2819899830592546966
+    second: mario correndo TUDO_27
+  - first:
+      213: 2370399581156351824
+    second: mario correndo TUDO_28
+  - first:
+      213: -2280649820813518427
+    second: mario correndo TUDO_29
+  - first:
+      213: 6244524834718196919
+    second: mario correndo TUDO_30
+  - first:
+      213: -8466677066180035633
+    second: mario correndo TUDO_31
+  - first:
+      213: -8688229455789899525
+    second: mario correndo TUDO_32
+  - first:
+      213: 403423970584962361
+    second: mario correndo TUDO_33
+  - first:
+      213: -4029338320925192850
+    second: mario correndo TUDO_34
+  - first:
+      213: 7976528205071281960
+    second: mario correndo TUDO_35
+  - first:
+      213: -8458895668026447815
+    second: mario correndo TUDO_36
+  - first:
+      213: 6585865885591079133
+    second: mario correndo TUDO_37
+  - first:
+      213: -736785548642027348
+    second: mario correndo TUDO_38
+  - first:
+      213: 3736263892238764992
+    second: mario correndo TUDO_39
+  - first:
+      213: 8688758696250342339
+    second: mario correndo TUDO_40
+  - first:
+      213: 1015634835538747622
+    second: mario correndo TUDO_41
+  - first:
+      213: 7361841270026406896
+    second: mario correndo TUDO_42
+  - first:
+      213: -4168212220170031409
+    second: mario correndo TUDO_43
+  - first:
+      213: 7006776457425122503
+    second: mario correndo TUDO_44
+  - first:
+      213: 4245926046203978310
+    second: mario correndo TUDO_45
+  - first:
+      213: 3415713056128978460
+    second: mario correndo TUDO_46
+  - first:
+      213: -3770400870918381185
+    second: mario correndo TUDO_47
+  - first:
+      213: 8434250418878201828
+    second: mario correndo TUDO_48
+  - first:
+      213: 748876114225341771
+    second: mario correndo TUDO_49
+  - first:
+      213: 6557674662495420275
+    second: mario correndo TUDO_50
+  - first:
+      213: 5263334184213486797
+    second: mario correndo TUDO_51
+  - first:
+      213: -1544316091528895230
+    second: mario correndo TUDO_52
+  - first:
+      213: 8381091773096816856
+    second: mario correndo TUDO_53
+  - first:
+      213: -4566204785137770413
+    second: mario correndo TUDO_54
+  - first:
+      213: -4106486205165067065
+    second: mario correndo TUDO_55
+  - first:
+      213: 6702600399452636717
+    second: mario correndo TUDO_56
+  - first:
+      213: -5044686206079896063
+    second: mario correndo TUDO_57
+  - first:
+      213: 1104713536009499871
+    second: mario correndo TUDO_58
+  - first:
+      213: 8113396175848546367
+    second: mario correndo TUDO_59
+  - first:
+      213: 8447627704029550942
+    second: mario correndo TUDO_60
+  - first:
+      213: -4229672199151291424
+    second: mario correndo TUDO_61
+  - first:
+      213: -8787975512460428340
+    second: mario correndo TUDO_62
+  - first:
+      213: -2051579906477771687
+    second: mario correndo TUDO_63
+  - first:
+      213: -8285166253610094033
+    second: mario correndo TUDO_64
+  - first:
+      213: -5240750060930285999
+    second: mario correndo TUDO_65
+  - first:
+      213: -6708972815413680094
+    second: mario correndo TUDO_66
+  - first:
+      213: 5508292664700962189
+    second: mario correndo TUDO_67
+  - first:
+      213: -5419614882556041797
+    second: mario correndo TUDO_68
+  - first:
+      213: -8747160097115889669
+    second: mario correndo TUDO_69
+  - first:
+      213: -1309363729014251987
+    second: mario correndo TUDO_70
+  - first:
+      213: 1158070156248081738
+    second: mario correndo TUDO_71
+  - first:
+      213: -7461589748289912949
+    second: mario correndo TUDO_72
+  - first:
+      213: -8181187951468539817
+    second: mario correndo TUDO_73
+  - first:
+      213: 6408007327859050084
+    second: mario correndo TUDO_74
+  - first:
+      213: 2754975461202067888
+    second: mario correndo TUDO_75
+  - first:
+      213: 9059153210278395952
+    second: mario correndo TUDO_76
+  - first:
+      213: 9021134280668035310
+    second: mario correndo TUDO_77
+  - first:
+      213: 4657915066818154822
+    second: mario correndo TUDO_78
+  - first:
+      213: 8138747462961719570
+    second: mario correndo TUDO_79
+  - first:
+      213: 4851440776294936155
+    second: mario correndo TUDO_80
+  - first:
+      213: 8555679402353167024
+    second: mario correndo TUDO_81
+  - first:
+      213: 9192118990817301392
+    second: mario correndo TUDO_82
+  - first:
+      213: 5640697997825470899
+    second: mario correndo TUDO_83
+  - first:
+      213: -5129172431395510777
+    second: mario correndo TUDO_84
+  - first:
+      213: -8820711563645014133
+    second: mario correndo TUDO_85
+  - first:
+      213: -3338444339846945258
+    second: mario correndo TUDO_86
+  - first:
+      213: 5663961869374435093
+    second: mario correndo TUDO_87
+  - first:
+      213: 2134094627683360264
+    second: mario correndo TUDO_88
+  - first:
+      213: -6339947077320382704
+    second: mario correndo TUDO_89
+  - first:
+      213: -6244403721002187249
+    second: mario correndo TUDO_90
+  - first:
+      213: 1769192549704749021
+    second: mario correndo TUDO_91
+  - first:
+      213: 7634636840430602948
+    second: mario correndo TUDO_92
+  - first:
+      213: -9095282183172654131
+    second: mario correndo TUDO_93
+  - first:
+      213: -2571965841968844697
+    second: mario correndo TUDO_94
+  - first:
+      213: 433958003182565401
+    second: mario correndo TUDO_95
+  - first:
+      213: 8254155728984607263
+    second: mario correndo TUDO_96
+  - first:
+      213: -5638488871899003157
+    second: mario correndo TUDO_97
+  - first:
+      213: 4688888673059499857
+    second: mario correndo TUDO_98
+  - first:
+      213: 7067962850124670667
+    second: mario correndo TUDO_99
+  - first:
+      213: 1923895230082393361
+    second: mario correndo TUDO_100
+  - first:
+      213: 8425010141540629884
+    second: mario correndo TUDO_101
+  - first:
+      213: 2550074845929768080
+    second: mario correndo TUDO_102
+  - first:
+      213: -6327553356586534074
+    second: mario correndo TUDO_103
+  - first:
+      213: 1811189538427675065
+    second: mario correndo TUDO_104
+  - first:
+      213: 8794432288634212475
+    second: mario correndo TUDO_105
+  - first:
+      213: -7288714750589518267
+    second: mario correndo TUDO_106
+  - first:
+      213: -3125850056759985136
+    second: mario correndo TUDO_107
+  - first:
+      213: 2871352591621899585
+    second: mario correndo TUDO_108
+  - first:
+      213: 8854873156258827409
+    second: mario correndo TUDO_109
+  - first:
+      213: 221983533045136489
+    second: mario correndo TUDO_110
+  - first:
+      213: 283228174321993476
+    second: mario correndo TUDO_111
+  - first:
+      213: 6861769348167164394
+    second: mario correndo TUDO_112
+  - first:
+      213: -1086851642826346105
+    second: mario correndo TUDO_113
+  - first:
+      213: 3048770673742319793
+    second: mario correndo TUDO_114
+  - first:
+      213: -173683192918221946
+    second: mario correndo TUDO_115
+  - first:
+      213: -54400144810118691
+    second: mario correndo TUDO_116
+  - first:
+      213: 3488079760970800128
+    second: mario correndo TUDO_117
+  - first:
+      213: -7054849106651957626
+    second: mario correndo TUDO_118
+  - first:
+      213: -1311821018404126709
+    second: mario correndo TUDO_119
+  - first:
+      213: 2019559584341681634
+    second: mario correndo TUDO_120
+  - first:
+      213: 9004283700375443560
+    second: mario correndo TUDO_121
+  - first:
+      213: -6162563586254210891
+    second: mario correndo TUDO_122
+  - first:
+      213: -5899337514154849066
+    second: mario correndo TUDO_123
+  - first:
+      213: -121123042028964688
+    second: mario correndo TUDO_124
+  - first:
+      213: 8870564831625638465
+    second: mario correndo TUDO_125
+  - first:
+      213: -181943163382955879
+    second: mario correndo TUDO_126
+  - first:
+      213: 6236922601556122313
+    second: mario correndo TUDO_127
+  - first:
+      213: -6275016676998338267
+    second: mario correndo TUDO_128
+  - first:
+      213: 381990925070644098
+    second: mario correndo TUDO_129
+  - first:
+      213: 8583197084363139840
+    second: mario correndo TUDO_130
+  - first:
+      213: 6651323621474518582
+    second: mario correndo TUDO_131
+  - first:
+      213: 3456113456315190409
+    second: mario correndo TUDO_132
+  - first:
+      213: 3816914005663718415
+    second: mario correndo TUDO_133
+  - first:
+      213: -498237251877041624
+    second: mario correndo TUDO_134
+  - first:
+      213: 2177072659718583270
+    second: mario correndo TUDO_135
+  - first:
+      213: 2830554133670296776
+    second: mario correndo TUDO_136
+  - first:
+      213: -5879275923864928191
+    second: mario correndo TUDO_137
+  - first:
+      213: 5234521266622414450
+    second: mario correndo TUDO_138
+  - first:
+      213: 1512170262028240770
+    second: mario correndo TUDO_139
+  - first:
+      213: 1826434633438696843
+    second: mario correndo TUDO_140
+  - first:
+      213: -3284441693288721383
+    second: mario correndo TUDO_141
+  - first:
+      213: 8426878897680200666
+    second: mario correndo TUDO_142
+  - first:
+      213: -1587893543641472153
+    second: mario correndo TUDO_143
+  - first:
+      213: -8078121316447034453
+    second: mario correndo TUDO_144
+  - first:
+      213: -4404484885015001018
+    second: mario correndo TUDO_145
+  - first:
+      213: 6943743933655219840
+    second: mario correndo TUDO_146
+  - first:
+      213: -3499667096850100083
+    second: mario correndo TUDO_147
+  - first:
+      213: -3073107867436084082
+    second: mario correndo TUDO_148
+  - first:
+      213: -6373305943596873420
+    second: mario correndo TUDO_149
+  - first:
+      213: 3894922497664771688
+    second: mario correndo TUDO_150
+  - first:
+      213: 7259828779892645322
+    second: mario correndo TUDO_151
+  - first:
+      213: -4786769359035016844
+    second: mario correndo TUDO_152
+  - first:
+      213: -2075799113105163440
+    second: mario correndo TUDO_153
+  - first:
+      213: 7819397412407374150
+    second: mario correndo TUDO_154
+  - first:
+      213: -8567773658019284755
+    second: mario correndo TUDO_155
+  - first:
+      213: -9170253136496200065
+    second: mario correndo TUDO_156
+  - first:
+      213: -5402574903372965447
+    second: mario correndo TUDO_157
+  - first:
+      213: 149426212348871744
+    second: mario correndo TUDO_158
+  - first:
+      213: 5785168914922476648
+    second: mario correndo TUDO_159
+  - first:
+      213: -4707712835610339048
+    second: mario correndo TUDO_160
+  - first:
+      213: 5181601472343172707
+    second: mario correndo TUDO_161
+  - first:
+      213: -907246800882732337
+    second: mario correndo TUDO_162
+  - first:
+      213: -1991134646579614745
+    second: mario correndo TUDO_163
+  - first:
+      213: 6366020101517907414
+    second: mario correndo TUDO_164
+  - first:
+      213: -3425480372189790840
+    second: mario correndo TUDO_165
+  - first:
+      213: 1343743880804386565
+    second: mario correndo TUDO_166
+  - first:
+      213: -3522440703295605845
+    second: mario correndo TUDO_167
+  - first:
+      213: 8794145445375142694
+    second: mario correndo TUDO_168
+  - first:
+      213: -6560878066621846120
+    second: mario correndo TUDO_169
+  - first:
+      213: 4995065116375957129
+    second: mario correndo TUDO_170
+  - first:
+      213: 7026041631009734555
+    second: mario correndo TUDO_171
+  - first:
+      213: -6497081400112755157
+    second: mario correndo TUDO_172
+  - first:
+      213: 4550618510540684038
+    second: mario correndo TUDO_173
+  - first:
+      213: 7616881983298874226
+    second: mario correndo TUDO_174
+  - first:
+      213: 484429832549892894
+    second: mario correndo TUDO_175
+  - first:
+      213: -1666107590952474397
+    second: mario correndo TUDO_176
+  - first:
+      213: 8981270521503846746
+    second: mario correndo TUDO_177
+  - first:
+      213: -5160817859283811764
+    second: mario correndo TUDO_178
+  - first:
+      213: -8195171217996567010
+    second: mario correndo TUDO_179
+  - first:
+      213: -5128484664764217096
+    second: mario correndo TUDO_180
+  - first:
+      213: -3032284222966969991
+    second: mario correndo TUDO_181
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 18
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mario correndo TUDO_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 765
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f17aca18fd18fd478835686e10e620e
+      internalID: -7195192127158347225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_1
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b71046d1b82084da16006c7f8f2d43
+      internalID: -4569197172719124132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_2
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aee24acc4f22a9488d1034b87bdae39
+      internalID: -4501392698570890192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aec3642dc6438744864a3d5a1622161
+      internalID: 5406633084010281561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_4
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec44741c514372a419d228c22c0abcac
+      internalID: 9070168144239637852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_5
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f150b35ce6b56704a812ed64cb4b2a96
+      internalID: 4998861485394665011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_6
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 764
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0cc51cf27bc949469f5f615f884dccf
+      internalID: 5481930461948106070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_7
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 765
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d03ee61c35cca714bb154c8fbcdeba1b
+      internalID: -7809720221039002546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_8
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 722
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c18e22f5fb320cd4d980f987b454dfbf
+      internalID: -7783173028421849063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_9
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 724
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da311e1b254a93140bb24ad1d5375cb1
+      internalID: 2542795368743401769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_10
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 727
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee5d3bc6ebdad94c844385e79b92df5
+      internalID: -8218553623522943590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_11
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540aa9a6b0bf66b4e993eeae9c0a96b4
+      internalID: 5740169118749114382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_12
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 723
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caad68f5e7eb7234eb0e21f6c0f6e250
+      internalID: 1956960056219305274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 723
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437b922939aa8dc47824ef4a8bfd8cb1
+      internalID: 4082914233243056901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_14
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 724
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abbe6731a0bf77f4dacecd5009961dbe
+      internalID: 7734693195172999159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_15
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 727
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a370bccf0edba64e8064dfd9b6199d9
+      internalID: 645790006528534096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 724
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a922eda48725da34ab576f69a85a8a48
+      internalID: -5647686088550060780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 722
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73a8eab994f8e7e4cbed50691bc08fa4
+      internalID: 7316741875050351849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_18
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b313d5839e60e43b4b0265e0e768f0
+      internalID: 6869090494843765732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 681
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d927a45baed7ba46aa77604b8c4092f
+      internalID: 1319411507969533446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_20
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f15a97b5d81b2144a68d498fba8f6a1
+      internalID: -1279516649130774253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_21
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f618004237badc34ea24a7df3f7cf559
+      internalID: -359385348672283271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_22
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 680
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3594484c7f88f874b8f2d20cb74c6e2e
+      internalID: -4825552843998058020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 680
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90d2b7fa6ad1c9488ce90a9af85839b
+      internalID: 4922760497755360056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_24
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ad567111009af498b4fbe28ce44e61
+      internalID: -2677454049228889881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_25
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2f137ea656f80845879439720051d4b
+      internalID: 7939920927584923383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_26
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 681
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670a5e73e2f64294684ff21d32a12d5b
+      internalID: -8624884973396683555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_27
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 680
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e74e63efd9373de498e22967aa134273
+      internalID: 2819899830592546966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_28
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72100f5893905e947a565d115b011d10
+      internalID: 2370399581156351824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_29
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 640
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9959f80bad1e0d4458a17d0d120e8798
+      internalID: -2280649820813518427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_30
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 647
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4392365856a1478c2437bb97cf43d
+      internalID: 6244524834718196919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b52b519cab5d86f4cb10568604e05814
+      internalID: -8466677066180035633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_32
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 639
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e810cb4b7dc649740b81b7bfee163cee
+      internalID: -8688229455789899525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 639
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5786da03485a56149a8661c27d6da711
+      internalID: 403423970584962361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_34
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d72b4909c0df468c159abb7ce6609
+      internalID: -4029338320925192850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_35
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 647
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456309a914840e246a70258215407ce7
+      internalID: 7976528205071281960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_36
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 640
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cf46da282324534fbac1385bb2b1685
+      internalID: -8458895668026447815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_37
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 640
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29e956c523130d1409aaaa4028b8a370
+      internalID: 6585865885591079133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_38
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 600
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a033f002e9c16f24282dff33bb56544d
+      internalID: -736785548642027348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_39
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 601
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b31c4ee082633ba48b5070c9537013c3
+      internalID: 3736263892238764992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_40
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0a8d6c5602ea6e4cbca41851be91c7d
+      internalID: 8688758696250342339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 601
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4334245a66a371a4597147c970633bc4
+      internalID: 1015634835538747622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_42
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2767f8552537b424ead03afc348d3997
+      internalID: 7361841270026406896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_43
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d681fc2cc899c84eb5064871185cb98
+      internalID: -4168212220170031409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_44
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca00eac35db56b04f9825d47a7ab9ad2
+      internalID: 7006776457425122503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_45
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 600
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c457585a28a08ff478c9f036a0be2166
+      internalID: 4245926046203978310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_46
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 601
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0092935bc6549304cac5f3aa7b40bca8
+      internalID: 3415713056128978460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_47
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 600
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35c00af92f508142b49cb1d2b51b4db
+      internalID: -3770400870918381185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_48
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 561
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6146cf3b3265c6e4985b50eda997b5f2
+      internalID: 8434250418878201828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_49
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39907769f94bc8645a96dd3e3fc40978
+      internalID: 748876114225341771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_50
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eabd266dc8c72454aa8aa55c512b791b
+      internalID: 6557674662495420275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_51
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 561
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3110d365799f5a47bdbfeeee0a6e31d
+      internalID: 5263334184213486797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 562
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0882e9e0ee44a44a9638d14caa05ce6
+      internalID: -1544316091528895230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_53
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 562
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a236202c4e6f97f4aa37e22174602fc5
+      internalID: 8381091773096816856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_54
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 561
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0d80b3cd1ee584eb93fe2c17a8e200
+      internalID: -4566204785137770413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_55
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8dc73b9933a250448ec4c222fb6802b
+      internalID: -4106486205165067065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_56
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 560
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8203977fb63aaec47ac4485164e1a581
+      internalID: 6702600399452636717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_57
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 561
+        width: 17
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfa2f1e86145764383205b2a23f07a7
+      internalID: -5044686206079896063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_58
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 520
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3891be57bc709484dac2edf870650d92
+      internalID: 1104713536009499871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_59
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 521
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: badaa0884c7c2514a85760379b980c3f
+      internalID: 8113396175848546367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_60
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 520
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b597155b61a0fd43b768741e10d41b6
+      internalID: 8447627704029550942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 518
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a698ac3107b4f5438d12793a735ed97
+      internalID: -4229672199151291424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_62
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 520
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a833f56c017c18247bb233dbf54f74c4
+      internalID: -8787975512460428340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_63
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 520
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a755c495c3b7f24791021f18f8397ea
+      internalID: -2051579906477771687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_64
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 518
+        width: 21
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d418e7c83f891024e887b6947afdf72a
+      internalID: -8285166253610094033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 520
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96dd7f2813d34604c88847edb0df4a20
+      internalID: -5240750060930285999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_66
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 521
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c67cf714e56c0345b6ba4b61d09c0cc
+      internalID: -6708972815413680094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_67
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 520
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 017cb023c58349544b732da8452ddd3b
+      internalID: 5508292664700962189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 483
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e63533576318db4aa697a6b340ca392
+      internalID: -5419614882556041797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_69
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 478
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41703a16e93f53944b68e769b259dcaf
+      internalID: -8747160097115889669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_70
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 473
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da96dc3e102138f44bbaeee0ac33a82b
+      internalID: -1309363729014251987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_71
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 475
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc49c38fe257ec44e9f291296a392e0a
+      internalID: 1158070156248081738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_72
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 481
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d0d19df4582c1541a61dff80ce514f3
+      internalID: -7461589748289912949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_73
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 481
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60cd478c1d8c20f499f61e69e8454143
+      internalID: -8181187951468539817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 475
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372152692e5ab96419e80549517100a1
+      internalID: 6408007327859050084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_75
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 473
+        width: 15
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afc18739c15904848ac66967cc8a3de1
+      internalID: 2754975461202067888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_76
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 478
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2b3c4a395cc8746aa6a6521b48bc26
+      internalID: 9059153210278395952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_77
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 483
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dd698d5808b37b48b50ff93e7104be8
+      internalID: 9021134280668035310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_78
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 443
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac839a026acee44b8359c8c00c7ac9a
+      internalID: 4657915066818154822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_79
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 423
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a7364122ac68174a8a0841537db4d52
+      internalID: 8138747462961719570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_80
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 422
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68641802adb63124a9ef919fb830d384
+      internalID: 4851440776294936155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_81
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 421
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17ca0dfc7d3b08c41aa9d482f501775f
+      internalID: 8555679402353167024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_82
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 421
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75aedf61f71cb6448fdbfb5593c4ab5
+      internalID: 9192118990817301392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_83
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 422
+        width: 43
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ba26dddcdeae44e9b17f7018e022de
+      internalID: 5640697997825470899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_84
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 423
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53bfe9d7b9a7f4f4c8d9d65ac035496b
+      internalID: -5129172431395510777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_85
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 443
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b76d9d26c961df44968b9de1269753e
+      internalID: -8820711563645014133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_86
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 362
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b8321613e08f40877afbd3551ec00
+      internalID: -3338444339846945258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_87
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 358
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f45d7985ff9cc3243992a9f05575ca28
+      internalID: 5663961869374435093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_88
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 358
+        width: 16
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b72b5c1db227ea846a6185b9712c3cca
+      internalID: 2134094627683360264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_89
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 362
+        width: 17
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f050e27081ded44cb79b8cb926630bc
+      internalID: -6339947077320382704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_90
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d35a8b55de814094799c31401a948e3b
+      internalID: -6244403721002187249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_91
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5837f1422751e244289c9cc4f2b4ab6c
+      internalID: 1769192549704749021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_92
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5dd80154bfeb04f9182f91edcd5fd4
+      internalID: 7634636840430602948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_93
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae3ae9b0cccea8e42a11d6760296d038
+      internalID: -9095282183172654131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_94
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 320
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd66a2deb328a0a44ab8d1f4b34fdd48
+      internalID: -2571965841968844697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_95
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 320
+        width: 15
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9e98b8e4b5d7d438c5ca1217b29ed0
+      internalID: 433958003182565401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_96
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be949724165f6ec478fafdf1ef4fc4b0
+      internalID: 8254155728984607263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_97
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029e288306132484c9bf85330a1af3db
+      internalID: -5638488871899003157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_98
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 321
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0ab814db3e4c5e428a70c1f822bdb96
+      internalID: 4688888673059499857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_99
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 320
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d81a512490e3ffa4cb4fc2ad052845c5
+      internalID: 7067962850124670667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_100
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614ab796f37717047af4ebbcabfa6502
+      internalID: 1923895230082393361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_101
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 281
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5fc249ebfd9c34e91646603d6d8357
+      internalID: 8425010141540629884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_102
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce98261f09a7a2b49b9333802954fe2e
+      internalID: 2550074845929768080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_103
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2a2d8483db22244b15e32b5ce222a2
+      internalID: -6327553356586534074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_104
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 279
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e666ee6f0577c459bdc35ed013cb45
+      internalID: 1811189538427675065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_105
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 279
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bc313601438b7b4ea10ad1a0c68737e
+      internalID: 8794432288634212475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_106
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 490119749e9a4f549a765e2beee071b4
+      internalID: -7288714750589518267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_107
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 287
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e3a6fbad4f484d86b8b838de2203a
+      internalID: -3125850056759985136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_108
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 281
+        width: 15
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7fd530a106085942998dd71d6888263
+      internalID: 2871352591621899585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_109
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 280
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3544a1a44d11b4da0ae080c48290a5
+      internalID: 8854873156258827409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_110
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 240
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943b87f77662d9e468a6d9d781ebe4ba
+      internalID: 221983533045136489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_111
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 240
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76743a38d95541b4b8311f6f42e18e9c
+      internalID: 283228174321993476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_112
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2859792d51f2b204683aaaa62e46eb65
+      internalID: 6861769348167164394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_113
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50e9b299d0ccd314481eec52d96918f0
+      internalID: -1086851642826346105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_114
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 240
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd39230e2fdd504d968febed7c43042
+      internalID: 3048770673742319793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_115
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 240
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90977f0419578734da8134a67465110f
+      internalID: -173683192918221946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_116
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6830c7607150b02439afb57518d93db1
+      internalID: -54400144810118691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_117
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 240
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538ba0a1fc9f62b4f8ffd69cfa2ca59f
+      internalID: 3488079760970800128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_118
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 240
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc09282a597d4a44bf93220b39ecd85
+      internalID: -7054849106651957626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_119
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 240
+        width: 16
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1550f07e5a39bba46a35078e9dd78eef
+      internalID: -1311821018404126709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_120
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61985e6020e56fa46ae5cb19c24158d8
+      internalID: 2019559584341681634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_121
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5be503d03e5c4fd4aa8cf2a96e97c430
+      internalID: 9004283700375443560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_122
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b17173a7b8a3b394389f0b390efc75a2
+      internalID: -6162563586254210891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_123
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97adaf9291bbf454eace47dce844cfad
+      internalID: -5899337514154849066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_124
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f674c5512636c44a41028462545916
+      internalID: -121123042028964688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_125
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c155a97c8de484841a24183ef648447a
+      internalID: 8870564831625638465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_126
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1592f06639e3b549a06cdfe83cadb8c
+      internalID: -181943163382955879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_127
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049389d86dc8e264db823b42767e92a5
+      internalID: 6236922601556122313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_128
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 201
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f417ebeb6cc6a614a8b28842d7f0281c
+      internalID: -6275016676998338267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_129
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 200
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa9cce4d91bbbfe489afbe73019202c6
+      internalID: 381990925070644098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_130
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 161
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92c72a26bb79d0448702b567833179d
+      internalID: 8583197084363139840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_131
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f43b3856dfc8da43bef4087adebf318
+      internalID: 6651323621474518582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_132
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d6d73681afb6704baa7adeb6d766b9c
+      internalID: 3456113456315190409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_133
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd88637c32cb9aa44905849feb960577
+      internalID: 3816914005663718415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_134
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b5f5e2dc61c63489c21de1b3c26d8a
+      internalID: -498237251877041624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_135
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a351bf4c49f400448fffa28d651cf3a
+      internalID: 2177072659718583270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_136
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3cb56636df96a448006303f10c29fb
+      internalID: 2830554133670296776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_137
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 161
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f9d3a5a21f48340917ac007f93d600
+      internalID: -5879275923864928191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_138
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 160
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e88ae7a710d4ca469fd2d66e9a2f3f5
+      internalID: 5234521266622414450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_139
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 161
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97b2a0c535009bc4cab1977ca5ad18c0
+      internalID: 1512170262028240770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_140
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 121
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fbebe0966774964aa6016fa4372ef26
+      internalID: 1826434633438696843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_141
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c43064e589d18e4fbbcc6b9754236a3
+      internalID: -3284441693288721383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_142
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8bc972fa080ff47b0c66768441c367
+      internalID: 8426878897680200666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_143
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1dbeb0fb0bc744e9cf37e91f64c178
+      internalID: -1587893543641472153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_144
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb5b3985e7b8ecf45a1bb7c6ed708878
+      internalID: -8078121316447034453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_145
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f877f36bbddb2684e90141d6b3ee36ba
+      internalID: -4404484885015001018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_146
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 120
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f628aa8d92500548aa46dfc2358769c
+      internalID: 6943743933655219840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_147
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e85363b9b2acc4d9821f0dfd3a4212
+      internalID: -3499667096850100083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_148
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 122
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe7e912c6886804eb1b5da9706c77a8
+      internalID: -3073107867436084082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_149
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 121
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab57cd96a6782344083b1f32d70e8022
+      internalID: -6373305943596873420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_150
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 75
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc6c0ec8789274e4081042eb4d0be149
+      internalID: 3894922497664771688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_151
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 79
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b89f282250b3904e9efbcd3772f78f0
+      internalID: 7259828779892645322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_152
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 82
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 978474b348c7c6044b41eca9f36eb321
+      internalID: -4786769359035016844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_153
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c49d7415fb70204bb95d0e80d84dd85
+      internalID: -2075799113105163440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_154
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 81
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b016e440f6d97cf4092b50a7361a06b7
+      internalID: 7819397412407374150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_155
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 82
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00eb9283e6deddf448529407167ee2ab
+      internalID: -8567773658019284755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_156
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 79
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db15682f3c80d8449191390c375564e
+      internalID: -9170253136496200065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_157
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 75
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af52b73bd93d2c40997a232e47367ed
+      internalID: -5402574903372965447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_158
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd3475734bf352540933d955d3df9f58
+      internalID: 149426212348871744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_159
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9887efe9720b4942981f8942583647e
+      internalID: 5785168914922476648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_160
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55972de1c3ab674ebddb4df5115c238
+      internalID: -4707712835610339048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_161
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b975472fa36b70a45a232fcd7df47455
+      internalID: 5181601472343172707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_162
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f5341e740beb542ae89c45aeb396b1
+      internalID: -907246800882732337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_163
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 40
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 765b4f7b26f6a2c49a00fa7144229a86
+      internalID: -1991134646579614745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_164
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca81c38f4d3d2c84eb5b7eb530b40fa7
+      internalID: 6366020101517907414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_165
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 40
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 532aa552f865f004c92921a20865399b
+      internalID: -3425480372189790840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_166
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 40
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c789b1085d1b0c348ad93557eef2192c
+      internalID: 1343743880804386565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_167
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0a3e73399778234eae604c6c69dc015
+      internalID: -3522440703295605845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_168
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 44
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ebb99b569c063d4d96636f5f145e011
+      internalID: 8794145445375142694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_169
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 44
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b262052bafdd848ac909416ea97ad8
+      internalID: -6560878066621846120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_170
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ce42e19159bc149b2e57c337a6f5bf
+      internalID: 4995065116375957129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_171
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a4a134f0cab11043bd25d6d0ed668ce
+      internalID: 7026041631009734555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_172
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c9bd7ad586309b4483714fba3111187
+      internalID: -6497081400112755157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_173
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80a4cae7dc74134baead0d74140e398
+      internalID: 4550618510540684038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_174
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586b258ffd505c049bd85d7eb17d117c
+      internalID: 7616881983298874226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_175
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8324e44bade3824cbca708ef4ef5a14
+      internalID: 484429832549892894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_176
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59dc0ea02c61b69449926ba73e533527
+      internalID: -1666107590952474397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_177
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 0
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c8f04538f833147b71f96acd60c344
+      internalID: 8981270521503846746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_178
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 0
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3399365236bf744865922b9928b558
+      internalID: -5160817859283811764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_179
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 4
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b61291d3fc6d3245849108eefe5f323
+      internalID: -8195171217996567010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_180
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 4
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c4f6bc7cdbb61e4d9b63a3a7937e0da
+      internalID: -5128484664764217096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mario correndo TUDO_181
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 4
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103e1e55279d9ee489343ea2fd5de2dc
+      internalID: -3032284222966969991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d66a20edf4ce7ac40b9f103977396cff
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
