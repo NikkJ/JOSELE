@@ -406,6 +406,10 @@ MonoBehaviour:
   - AFETO
   - "M\xC3E"
   - PAI
+  - AMIGOS
+  - MITO
+  - SACI
+  - IDOSA
   palavraAtual: 
   fundo: {fileID: 2109324673}
   frente: {fileID: 1290628136}
@@ -550,7 +554,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 3bfd3e0956182a148adfe235f3dadee1, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 1
+  m_Volume: 0.08
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -674,7 +678,7 @@ MonoBehaviour:
   estilos: 090000000000000000000000
   str: 0
   kamera: {fileID: 1437476401}
-  movimentacao: 0
+  movimentacao: 2
   erros: {fileID: 0}
 --- !u!50 &464462371
 Rigidbody2D:
@@ -1020,10 +1024,10 @@ RectTransform:
   m_Father: {fileID: 242495219}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 179, y: 88}
-  m_SizeDelta: {x: 160, y: 30}
+  m_AnchorMin: {x: 1, y: 1}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -80.5, y: -37}
+  m_SizeDelta: {x: 161, y: 31}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1205389719
 MonoBehaviour:
@@ -1247,6 +1251,7 @@ MonoBehaviour:
   nuvens:
   - {fileID: 1283883568198197694, guid: 0a274bb2d9a4d7c45aa96dae1afd705b, type: 3}
   - {fileID: 362165472074771410, guid: 0abd79104057524479b770c030962ebb, type: 3}
+  off: 1
   spawnRate: 12.5
   maxAltura: 4.3
   minAltura: 2.1
@@ -1264,6 +1269,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   nuvens:
   - {fileID: 7765421991714206289, guid: 62ee942d9236bea46a54725da9b9d484, type: 3}
+  off: 1
   spawnRate: 9.56
   maxAltura: -1
   minAltura: -4
@@ -1279,9 +1285,9 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: 758fea5b8a41b294198ce724ad512925, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.384
+  m_Volume: 0.16
   m_Pitch: 1
-  Loop: 0
+  Loop: 1
   Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
@@ -1791,7 +1797,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.1148879, y: 0.7097072}
   m_AnchorMax: {x: 0.882, y: 0.89500004}
-  m_AnchoredPosition: {x: 0.52371216, y: 0.5}
+  m_AnchoredPosition: {x: 0.5237427, y: 0.5}
   m_SizeDelta: {x: 2.0599976, y: -0.43299866}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2109324675

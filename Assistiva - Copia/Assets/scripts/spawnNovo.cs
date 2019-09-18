@@ -26,15 +26,14 @@ public class spawnNovo : MonoBehaviour {
         nivel = PlayerPrefs.GetInt("Nivel");
         velocidade =PlayerPrefs.GetFloat("speed");
         a =  (1f/nivel * ((0.8f/velocidade))/rateSpawn); //dando erro de calculo ******REVER A FORMULA************
-        b = a;
-        Debug.Log("Velocidade spawn: "+velocidade);
+        Debug.Log("Velocidade spawn: "+a);
     }
 	
 	// Update is called once per frame
 	void Update () {
         currentTime += Time.deltaTime;
         //Diminui a velocidade de Spawn de acordo com o nivel que se encontra
-        if(currentTime >= b)
+        if(currentTime >= a)
         {
             currentTime = 0;
             y = Random.Range(-4.1f, -0.5f);

@@ -10,10 +10,18 @@ public class spawngenerico : MonoBehaviour
     private float currentTime;
     private float y;
     private int nivel;
+    public int off=2;
     public float spawnRate=12.5f;
     public float maxAltura,minAltura;
+    AudioSource audio;
+    bool OnOff;
+    bool On;
 
 
+    private void Start()
+    {
+        audio = GetComponent<AudioSource>();
+    }
 
     void Update()
     {
@@ -28,8 +36,19 @@ public class spawngenerico : MonoBehaviour
             tempPrefab.transform.position = new Vector2(9.82f,Random.Range(minAltura, maxAltura));
             tempPrefab.transform.localScale = new Vector2(Random.Range(-2,2)>0? tempPrefab.transform.localScale.y : -tempPrefab.transform.localScale.y, tempPrefab.transform.localScale.y);
             nivel = PlayerPrefs.GetInt("Nivel");
-            
         }
-
-    }
+        //if (audio.isPlaying && off%2==0)
+        //{
+        //    audio.Play();
+        //}
+        if(Input.GetKeyDown(KeyCode.Q))
+        {
+            audio.enabled = false;
+        }
+        if (Input.GetKeyDown(KeyCode.E))
+        {
+            audio.enabled = true;
+        }
+      
+}
 }

@@ -190,7 +190,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "Que pena! Voc\xEA ultrapassou o limite de 10 erros, clique em jogar novamente
+  m_Text: "Que pena! Voc\xEA ultrapassou o limite de erros, clique em jogar novamente
     para outra tentativa."
 --- !u!222 &84006597
 CanvasRenderer:
@@ -282,8 +282,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 11500000, guid: 3d2a25c5df97b384bb9a0316b5814d13, type: 3}
-        m_MethodName: 
+      - m_Target: {fileID: 1122738295}
+        m_MethodName: TentarNovamente
         m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
@@ -432,6 +432,7 @@ MonoBehaviour:
   opcoes: {fileID: 0}
   customizar: {fileID: 0}
   white: {fileID: 0}
+  input: {fileID: 0}
 --- !u!1 &1434629011
 GameObject:
   m_ObjectHideFlags: 0
