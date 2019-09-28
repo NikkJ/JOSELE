@@ -18,9 +18,9 @@ public class move2 : MonoBehaviour {
         Debug.Log(a);
         palavra = GameObject.FindGameObjectWithTag("Palavra");
         int i = Random.Range(0, 100);
-        if ( i>= 75 && i<95)
+        if (i>= 75 && i<95)
         {
-            l = palavra.GetComponent<EscolhePalavra>().PalavraChar[0];
+            l = palavra.GetComponent<EscolhePalavra>().palavraAtual[Random.Range(0, palavra.GetComponent<EscolhePalavra>().palavraAtual.Length)];
         }
         else if(i<75)
         {
