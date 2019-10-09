@@ -1,10 +1,12 @@
 fileFormatVersion: 2
-guid: d86e1b0dd5b144648bcfd2787b9b2104
+guid: df9ca4eecfb4406468f8ddb6fc41778e
 TextureImporter:
-  fileIDToRecycleName:
-    21300000: 2d-backgrounds-3_0
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: sprite background mugen 0017_0
   externalObjects: {}
-  serializedVersion: 7
+  serializedVersion: 10
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -46,7 +48,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 2000
+  spritePixelsToUnits: 100
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -58,48 +60,52 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
+  ignorePngGamma: 0
   platformSettings:
-  - serializedVersion: 2
+  - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 512
-    resizeAlgorithm: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 3
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
-  - serializedVersion: 2
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 512
-    resizeAlgorithm: 1
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 3
+    textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
   spriteSheet:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2d-backgrounds-3_0
+      name: sprite background mugen 0017_0
       rect:
         serializedVersion: 2
         x: 0
-        y: 0
-        width: 748
-        height: 140
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        y: 144
+        width: 384
+        height: 195
+      alignment: 9
+      pivot: {x: 0.49118933, y: 0.77967155}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 321cedc202174544dafec1a5cc452772
+      spriteID: 643e3957d5aaf7644b62d238bb689caf
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -107,11 +113,13 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 3ef8b437438eeac43b01fd60ad54a25d
+    spriteID: 03d1b1832a87b2d42984e57494ada3c9
+    internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
+    secondaryTextures: []
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
